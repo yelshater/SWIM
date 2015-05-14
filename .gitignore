@@ -1,0 +1,10 @@
+.classpath
+/build
+/fs_test
+/target
+/tempOutput
+/docword.enron.txt
+/jd.cfg
+/file:/
+.project
+/bin/
